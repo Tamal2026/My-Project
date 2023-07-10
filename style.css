@@ -55,19 +55,33 @@ margin-top: 20px;
 }
 .garden-img{
     margin-top: 25px;
+   
 }
 .garden-descrption{ 
     margin-top: 20px;
 
 }
+
 .garden-project{
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
+    align-items: center;
 }
 .sec-1-title{
     color: red;
 }
 .sec-1{
     display: flex;
-    gap: 25px;
+    gap: 28px;
+margin-top: 20px;
+
+}
+.our-services{
+ padding-right: 100px;
+}
+.img-go-to-top{
+   padding-left: 200px;
+   float: right;
+   margin-top: 250px;
+
 }
